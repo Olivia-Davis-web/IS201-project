@@ -1,0 +1,109 @@
+.links{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+}
+
+.links2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+}
+
+.title1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 0cap;
+    text-align: center;
+    margin-bottom: -2%;
+}
+
+.title2{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:bolder;
+    color:#F3AC64;
+}
+
+.title3{
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:bolder;
+    color: #7EAADB;
+}
+
+.title4{
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:bolder;
+    color: #9BC272;
+}
+
+.title5{
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:bolder;
+    color: #F5A8C1;
+}
+
+.title6{
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:bolder;
+    color: #E9BF57;
+}
+
+
+.background{
+    background-image: url(../assets/img/Rockclimbing.png) ;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+
+.contentBox1 {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 5rem;
+    border-radius: 8px;
+    max-width: 600px;
+    width: 100%;
+  }
+
+.contentBox2 {
+    border: 2px solid #F3AC64;
+    padding: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.lists{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tabBody{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-indent: 5px;
+}
+
+h1{
+    font-size:300%;
+}
+
+.image1{
+    height: 170px;
+    border: 2px solid #7EAADB;
+}
+
+.image2{
+    height: 170px;
+    border: 2px solid #9BC272;
+}
